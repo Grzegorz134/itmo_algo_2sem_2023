@@ -61,6 +61,30 @@ build CMakeFiles/itmo_algo_2sem_2023.dir/lab8/C.cpp.obj: CXX_COMPILER__itmo_algo
   OBJECT_DIR = CMakeFiles\itmo_algo_2sem_2023.dir
   OBJECT_FILE_DIR = CMakeFiles\itmo_algo_2sem_2023.dir\lab8
 
+build CMakeFiles/itmo_algo_2sem_2023.dir/lab9/A.cpp.obj: CXX_COMPILER__itmo_algo_2sem_2023_Debug E$:/itmo_algo_2sem_2023/lab9/A.cpp || cmake_object_order_depends_target_itmo_algo_2sem_2023
+  DEP_FILE = CMakeFiles\itmo_algo_2sem_2023.dir\lab9\A.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu++23
+  OBJECT_DIR = CMakeFiles\itmo_algo_2sem_2023.dir
+  OBJECT_FILE_DIR = CMakeFiles\itmo_algo_2sem_2023.dir\lab9
+
+build CMakeFiles/itmo_algo_2sem_2023.dir/lab9/B.cpp.obj: CXX_COMPILER__itmo_algo_2sem_2023_Debug E$:/itmo_algo_2sem_2023/lab9/B.cpp || cmake_object_order_depends_target_itmo_algo_2sem_2023
+  DEP_FILE = CMakeFiles\itmo_algo_2sem_2023.dir\lab9\B.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu++23
+  OBJECT_DIR = CMakeFiles\itmo_algo_2sem_2023.dir
+  OBJECT_FILE_DIR = CMakeFiles\itmo_algo_2sem_2023.dir\lab9
+
+build CMakeFiles/itmo_algo_2sem_2023.dir/lab9/D.cpp.obj: CXX_COMPILER__itmo_algo_2sem_2023_Debug E$:/itmo_algo_2sem_2023/lab9/D.cpp || cmake_object_order_depends_target_itmo_algo_2sem_2023
+  DEP_FILE = CMakeFiles\itmo_algo_2sem_2023.dir\lab9\D.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu++23
+  OBJECT_DIR = CMakeFiles\itmo_algo_2sem_2023.dir
+  OBJECT_FILE_DIR = CMakeFiles\itmo_algo_2sem_2023.dir\lab9
+
+build CMakeFiles/itmo_algo_2sem_2023.dir/lab9/F.cpp.obj: CXX_COMPILER__itmo_algo_2sem_2023_Debug E$:/itmo_algo_2sem_2023/lab9/F.cpp || cmake_object_order_depends_target_itmo_algo_2sem_2023
+  DEP_FILE = CMakeFiles\itmo_algo_2sem_2023.dir\lab9\F.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always -std=gnu++23
+  OBJECT_DIR = CMakeFiles\itmo_algo_2sem_2023.dir
+  OBJECT_FILE_DIR = CMakeFiles\itmo_algo_2sem_2023.dir\lab9
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target itmo_algo_2sem_2023
@@ -69,7 +93,7 @@ build CMakeFiles/itmo_algo_2sem_2023.dir/lab8/C.cpp.obj: CXX_COMPILER__itmo_algo
 #############################################
 # Link the executable itmo_algo_2sem_2023.exe
 
-build itmo_algo_2sem_2023.exe: CXX_EXECUTABLE_LINKER__itmo_algo_2sem_2023_Debug CMakeFiles/itmo_algo_2sem_2023.dir/lab8/B.cpp.obj CMakeFiles/itmo_algo_2sem_2023.dir/lab8/C.cpp.obj
+build itmo_algo_2sem_2023.exe: CXX_EXECUTABLE_LINKER__itmo_algo_2sem_2023_Debug CMakeFiles/itmo_algo_2sem_2023.dir/lab8/B.cpp.obj CMakeFiles/itmo_algo_2sem_2023.dir/lab8/C.cpp.obj CMakeFiles/itmo_algo_2sem_2023.dir/lab9/A.cpp.obj CMakeFiles/itmo_algo_2sem_2023.dir/lab9/B.cpp.obj CMakeFiles/itmo_algo_2sem_2023.dir/lab9/D.cpp.obj CMakeFiles/itmo_algo_2sem_2023.dir/lab9/F.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\itmo_algo_2sem_2023.dir
