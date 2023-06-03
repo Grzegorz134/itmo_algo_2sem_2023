@@ -69,7 +69,13 @@
 				11,
 				12,
 				13,
-				14
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20
 			]
 		}
 	],
@@ -120,7 +126,13 @@
 				11,
 				12,
 				13,
-				14
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20
 			]
 		}
 	],
@@ -214,6 +226,42 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "lab11/E.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lab12/A.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lab12/B.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lab12/D.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lab12/E.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lab12/F.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lab12/C.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],
